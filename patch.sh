@@ -9,6 +9,7 @@ YELLOW='\033[1;33m'
 
 WORKDIR=$(pwd)
 FILENAME='com.freestylelibre.app.de_2019-04-22'
+FILENAME='FreeStyle LibreLink DE_v2.4.2_apkpure.com.apk'
 
 echo -e "${WHITE}Prüfe benötigte Tools ...${NORMAL}"
 MISSINGTOOL=0
